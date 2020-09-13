@@ -1,4 +1,4 @@
-### Hi there, I'm Chetan 👋
+### Hi there, I'm Chetan 👋  ![](https://visitor-badge.laobi.icu/badge?page_id=Chetan45s.Chetan45s)    [![Github](https://img.shields.io/github/followers/Chetan45s?label=Follow&style=social)](https://github.com/Chetan45s)
 
 ## I'm a Student, Competitive Programmer, Developer!
 
@@ -34,10 +34,7 @@
 <br />
 <br />
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Chetan45s.Chetan45s)
 <summary>:zap: Github Stats</summary>
-
-[![Github](https://img.shields.io/github/followers/Chetan45s?label=Follow&style=social)](https://github.com/Chetan45s)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan45s&show_icons=true&theme=tokyonight) 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan45s&theme=tokyonight) -->
