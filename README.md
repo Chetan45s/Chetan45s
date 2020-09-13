@@ -1,11 +1,11 @@
 ### Hi there, I'm Chetan 👋
 
-## I'm a Student, Competitive Programmer, Developer, and Cool Boi!
+## I'm a Student, Competitive Programmer, Developer!
 
-- 🔭 I’m currently working with [Tawise][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- I’m currently working with [Tawise][website]!
+- I’m currently learning everything 🤣
+- I’m looking to collaborate with other content creators
+- 2020 Goals: Contribute more to Open Source projects
 
 ### Check out My Telegram Bot:
 <a href="https://t.me/newsfromchetanbot">
@@ -39,7 +39,8 @@
 
 [![Github](https://img.shields.io/github/followers/Chetan45s?label=Follow&style=social)](https://github.com/Chetan45s)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan45s&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan45s&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan45s&show_icons=true&theme=tokyonight) 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan45s&theme=tokyonight) -->
 
 [website]: https://tawise.in
 [twitter]: https://twitter.com/chetansalmotra
