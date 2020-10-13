@@ -34,6 +34,8 @@
 <br />
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan45s&layout=compact&hide=html" alt="Chetan45s" /></p>
+
 <summary>:zap: Github Stats</summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan45s&show_icons=true&theme=tokyonight) 
