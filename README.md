@@ -3,9 +3,7 @@
 ## I'm a Student, Competitive Programmer, Developer!
 
 - I’m currently working with [Tawise][website]!
-- I’m currently learning everything 🤣
-- I’m looking to collaborate with other content creators
-- 2020 Goals: Contribute more to Open Source projects
+- 2020 Goals: Learn more
 
 ### Check out My Telegram Bot:
 <a href="https://t.me/newsfromchetanbot">
