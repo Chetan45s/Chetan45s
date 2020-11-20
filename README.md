@@ -2,7 +2,7 @@
 
 ## I'm a Student, Competitive Programmer, Developer!
 
-- I’m currently working with [Tawise][website]!
+- Worked with [Tawise][website]!
 - 2020 Goals: Learn more
 
 ### Check out My Telegram Bot:
