@@ -2,8 +2,6 @@
 
 ## I'm a Student, Competitive Programmer, Developer!
 
-- Worked with [Tawise][website]!
-- 2020 Goals: Learn more
 
 ### Check out My Telegram Bot:
 <a href="https://t.me/newsfromchetanbot">
