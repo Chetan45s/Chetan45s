@@ -33,7 +33,6 @@
 <summary>:zap: Github Stats</summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan45s&show_icons=true&theme=tokyonight&count_private=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chetan45s&hide=CSS,HTML&show_icons=true&theme=tokyonight)
 
 
 [website]: https://tawise.in
