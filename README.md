@@ -2,14 +2,9 @@
 
 ## Software Developer!
 
-<br />
-<br />
-
-
 <summary>:zap: Github Stats</summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetan45s&show_icons=true&theme=tokyonight&count_private=true) 
-
 
 [website]: https://tawise.in
 [twitter]: https://twitter.com/chetansalmotra
